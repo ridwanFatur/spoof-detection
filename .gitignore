@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 *.pth
+*.log
+*.pyc
+*.csv
+*.npz
